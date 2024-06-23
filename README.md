@@ -45,9 +45,7 @@
 
 <br/>
 <hr/>
-<center>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ZamzamNiaz?ext=heatmap)
-</center>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
