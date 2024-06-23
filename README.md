@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zamzamniaz&show_icons=true&locale=en" alt="zamzamniaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zamzamniaz&" alt="zamzamniaz" /></p>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/ZamzamNiaz?ext=heatmap)
