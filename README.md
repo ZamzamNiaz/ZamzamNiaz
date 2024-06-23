@@ -1,5 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)](https://rishavchanda.io)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zamzamniaz&label=Profile%20views&color=0e75b6&style=flat" alt="zamzamniaz" /> </p>
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zamzam+Niaz!;" />
@@ -45,6 +46,7 @@
 <br/>
 <hr/>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ZamzamNiaz?ext=heatmap)
 
 <hr/>
 
@@ -63,8 +65,6 @@
 <hr/>
 
 <br/>
-<div align="center">
-![Leetcode Stats](https://leetcard.jacoblin.cool/ZamzamNiaz?ext=heatmap)
-</div>
+
 
 <br/>
