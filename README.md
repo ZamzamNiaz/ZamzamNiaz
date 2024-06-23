@@ -45,23 +45,17 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZamzamNiaz/ZamzamNiaz/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-ZamzamNiaz.vercel.app/?user=ZamzamNiaz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-ZamzamNiaz.vercel.app/api?username=ZamzamNiaz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-ZamzamNiaz.vercel.app/api/top-langs/?username=zamzamniaz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zamzamniaz&show_icons=true&locale=en&layout=compact" alt="zamzamniaz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zamzamniaz&show_icons=true&locale=en" alt="zamzamniaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zamzamniaz&" alt="zamzamniaz" /></p>
 </div>
 
 <br/><br/>
