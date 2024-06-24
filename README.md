@@ -23,13 +23,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:zamzamniaz@gmail.com">
+  <a href="zamzamniaz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/zamzam niaz ahmed" target="_blank">
+  <a href="[https://linkedin.com/in/zamzam niaz ahmed](https://www.linkedin.com/in/zamzam-niaz-ahmed-baa90b247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://instagram.com/@zamzam.niaz" target="_blank">
+  <a href="[https://instagram.com/@zamzam.niaz](https://www.instagram.com/zamzam.niaz?igsh=MTZ6MTUwODk0aG81Yg==)" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
